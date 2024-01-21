@@ -43,7 +43,7 @@ aside button i{
     transition: all 0.2s ease-in-out;
 }
 aside button:hover i{
-    color: rgb(117, 15, 15) !important;
+    color: rgb(78, 101, 204) !important;
 }
 aside .option{
     cursor: pointer;
